@@ -1,0 +1,15 @@
+{
+    "name": "nikosv/sia-lib",
+    "description": "This a library to interact with with the SIA network. SIA is a blockchain for storage.",
+    "type": "library",
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nikos vavoulas",
+            "email": "nikos.va@gmail.com"
+        }
+    ]
+}
